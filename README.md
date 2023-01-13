@@ -1,1 +1,1 @@
-#  Example of landing page
+# landing 
